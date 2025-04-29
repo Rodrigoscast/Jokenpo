@@ -1,4 +1,4 @@
-🪨📄✂️ Jokenpo App
+✂️ Jokenpo App
 Este é um aplicativo Flutter desenvolvido em Dart, que simula o clássico jogo do Jokenpo (Pedra, Papel e Tesoura).
 O usuário escolhe sua jogada, o app gera uma jogada aleatória para o oponente e exibe o resultado na tela!
 ---
@@ -34,5 +34,5 @@ Dart 🎯
 
 ### 🎨 Gif do projeto final
 
-![Preview](funcionando/funciona.gif)
+![Preview](funcionamento/funciona.gif)
 
